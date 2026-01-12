@@ -1,0 +1,26 @@
+// breakpoints.scss
+//
+// Made with ❤️ by Maysara.
+
+
+
+// ----------------------------------------------------------------------------
+// BREAKPOINTS - Responsive Design
+// ----------------------------------------------------------------------------
+    $bp-xs: 0;
+    $bp-sm: 640px;
+    $bp-md: 768px;
+    $bp-lg: 1024px;
+    $bp-xl: 1280px;
+    $bp-2xl: 1536px;
+
+    // Map for easy iteration
+    $breakpoints: (
+        'xs': $bp-xs,
+        'sm': $bp-sm,
+        'md': $bp-md,
+        'lg': $bp-lg,
+        'xl': $bp-xl,
+        '2xl': $bp-2xl,
+    );
+

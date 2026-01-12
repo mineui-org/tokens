@@ -1,0 +1,26 @@
+// transitions.scss
+//
+// Made with ❤️ by Maysara.
+
+
+
+// ----------------------------------------------------------------------------
+// Durations
+// ----------------------------------------------------------------------------
+    $dur-instant: 50ms;
+    $dur-fast: 100ms;
+    $dur-normal: 150ms;
+    $dur-moderate: 200ms;
+    $dur-slow: 300ms;
+    $dur-slower: 500ms;
+    $dur-slowest: 700ms;
+
+// ----------------------------------------------------------------------------
+// Timing Functions
+// ----------------------------------------------------------------------------
+    $ease-linear: linear;
+    $ease-in: cubic-bezier(0.4, 0, 1, 1);
+    $ease-out: cubic-bezier(0, 0, 0.2, 1);
+    $ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+    $ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    $ease-elastic: cubic-bezier(0.68, -0.6, 0.32, 1.6);
