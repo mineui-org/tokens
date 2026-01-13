@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/v-0.0.3-black"/>
+    <img src="https://img.shields.io/badge/v-0.0.4-black"/>
     <a href="https://github.com/mineui-org"><img src="https://img.shields.io/badge/🔥-@mineui-black"/></a>
     <br>
     <img src="https://img.shields.io/badge/coverage-~%25-brightgreen" alt="Test Coverage" />
@@ -186,7 +186,7 @@
             > 0% to 100% in useful increments.
 
             ```scss
-            $opacity-0, $opacity-5, $opacity-10, $opacity-20,
+            $opacity-0,  $opacity-5,  $opacity-10, $opacity-20,
             $opacity-25, $opacity-30, $opacity-40, $opacity-50,
             $opacity-60, $opacity-70, $opacity-75, $opacity-80,
             $opacity-90, $opacity-95, $opacity-100
@@ -197,12 +197,12 @@
             > Responsive design breakpoints.
 
             ```scss
-            $bp-xs: 0
-            $bp-sm: 640px
-            $bp-md: 768px
-            $bp-lg: 1024px
-            $bp-xl: 1280px
-            $bp-2xl: 1536px
+            $bp-xs  : 0
+            $bp-sm  : 640px
+            $bp-md  : 768px
+            $bp-lg  : 1024px
+            $bp-xl  : 1280px
+            $bp-2xl : 1536px
             ```
 
         - #### Sizes
@@ -226,8 +226,8 @@
             > Common aspect ratios.
 
             ```scss
-            $aspect-square, $aspect-video, $aspect-4-3,
-            $aspect-21-9, $aspect-portrait, $aspect-auto
+            $aspect-square, $aspect-video,    $aspect-4-3,
+            $aspect-21-9,   $aspect-portrait, $aspect-auto
             ```
 
         <div align="center"> <img src="./assets/img/line.png" alt="line" style="display: block; margin-top:20px;margin-bottom:20px;width:500px;"/> </div>
