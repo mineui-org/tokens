@@ -8,12 +8,12 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/v-1.0.0-black"/>
+    <img src="https://img.shields.io/badge/v-0.0.3-black"/>
     <a href="https://github.com/mineui-org"><img src="https://img.shields.io/badge/🔥-@mineui-black"/></a>
     <br>
-    <img src="https://img.shields.io/badge/coverage-100%25-brightgreen" alt="Test Coverage" />
-    <img src="https://img.shields.io/github/issues/mineui-orgx/tokens?style=flat" alt="Github Repo Issues" />
-    <img src="https://img.shields.io/github/stars/mineui-orgx/tokens?style=social" alt="GitHub Repo stars" />
+    <img src="https://img.shields.io/badge/coverage-~%25-brightgreen" alt="Test Coverage" />
+    <img src="https://img.shields.io/github/issues/mineui-org/tokens?style=flat" alt="Github Repo Issues" />
+    <img src="https://img.shields.io/github/stars/mineui-org/tokens?style=social" alt="GitHub Repo stars" />
 </div>
 <br>
 
@@ -56,9 +56,9 @@
 
         ```scss
         .button {
-          background: $blue-6;    // Main blue
-          color: $gray-0;         // Almost white
-          border: 1px solid $gray-3;
+          background    : $blue-6;  // Main blue
+          color         : $gray-0;  // Almost white
+          border        : 1px solid $gray-3;
         }
         ```
 
@@ -66,10 +66,10 @@
 
         ```scss
         .card {
-          padding: $sp-6;         // 1.5rem (24px)
-          font-size: $fs-lg;      // 1.125rem (18px)
-          font-weight: $fw-medium; // 500
-          border-radius: $br-lg;   // 0.5rem (8px)
+          padding       : $sp-6;        // 1.5rem (24px)
+          font-size     : $fs-lg;       // 1.125rem (18px)
+          font-weight   : $fw-medium;   // 500
+          border-radius : $br-lg;       // 0.5rem (8px)
         }
         ```
 
@@ -86,18 +86,18 @@
 
             ```scss
             // Gray scale (12 shades)
-            $gray-0 to $gray-11
-            
+            $gray-0   to $gray-11
+
             // Brand colors (11 shades each)
-            $blue-1 to $blue-11
-            $green-1 to $green-11
-            $red-1 to $red-11
-            $amber-1 to $amber-11
+            $blue-1   to $blue-11
+            $green-1  to $green-11
+            $red-1    to $red-11
+            $amber-1  to $amber-11
             $orange-1 to $orange-11
             $purple-1 to $purple-11
-            $pink-1 to $pink-11
-            $cyan-1 to $cyan-11
-            $teal-1 to $teal-11
+            $pink-1   to $pink-11
+            $cyan-1   to $cyan-11
+            $teal-1   to $teal-11
             $indigo-1 to $indigo-11
             ```
 
@@ -106,8 +106,8 @@
             > Perfect scale from 0 to 64 (0px to 256px).
 
             ```scss
-            $sp-0, $sp-1, $sp-2, $sp-3, $sp-4, $sp-5, $sp-6, 
-            $sp-7, $sp-8, $sp-9, $sp-10, $sp-12, $sp-14, $sp-16,
+            $sp-0,  $sp-1,  $sp-2,  $sp-3,  $sp-4,  $sp-5,  $sp-6,
+            $sp-7,  $sp-8,  $sp-9,  $sp-10, $sp-12, $sp-14, $sp-16,
             $sp-20, $sp-24, $sp-28, $sp-32, $sp-36, $sp-40,
             $sp-44, $sp-48, $sp-52, $sp-56, $sp-60, $sp-64
             ```
@@ -119,16 +119,16 @@
             ```scss
             // Families
             $font-sans, $font-serif, $font-mono, $font-arabic
-            
+
             // Sizes
             $fs-xs to $fs-9xl
-            
+
             // Weights
             $fw-thin to $fw-black
-            
+
             // Line heights
             $lh-none to $lh-loose
-            
+
             // Letter spacing
             $ls-tighter to $ls-widest
             ```
@@ -140,7 +140,7 @@
             ```scss
             // Widths
             $bw-0 to $bw-8
-            
+
             // Radius
             $br-none to $br-3xl, $br-full
             ```
@@ -152,8 +152,8 @@
             ```scss
             // Light mode
             $shadow-xs, $shadow-sm, $shadow-base, $shadow-md,
-            $shadow-lg, $shadow-xl, $shadow-2xl, $shadow-inner
-            
+            $shadow-lg, $shadow-xl, $shadow-2xl,  $shadow-inner
+
             // Dark mode
             $shadow-xs-dark to $shadow-2xl-dark
             ```
@@ -164,8 +164,8 @@
 
             ```scss
             $z-0 to $z-50
-            $z-dropdown, $z-sticky, $z-fixed, $z-backdrop,
-            $z-modal, $z-popover, $z-tooltip, $z-notification
+            $z-dropdown, $z-sticky,  $z-fixed,   $z-backdrop,
+            $z-modal,    $z-popover, $z-tooltip, $z-notification
             ```
 
         - #### Transitions
@@ -175,7 +175,7 @@
             ```scss
             // Durations
             $dur-instant to $dur-slowest
-            
+
             // Easings
             $ease-linear, $ease-in, $ease-out, $ease-in-out,
             $ease-bounce, $ease-elastic

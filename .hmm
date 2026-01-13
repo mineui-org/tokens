@@ -5,8 +5,8 @@
 	"repo": {
 		"org"           : "mineui",
 		"name"          : "tokens",
-		"version"       : "0.0.1",
-		"desc"          : "tokens",
+		"version"       : "0.0.3",
+		"desc"          : "350+ design tokens for modern UI systems—colors, spacing, typography, shadows, and more in HSL format",
 		"kw"            : ["mine", "ui", "tokens"],
 		"license"       : "MIT",
 		"issues"        : "https://github.com/mineui-org/tokens/issues",
