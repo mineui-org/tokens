@@ -1,6 +1,6 @@
 {
 	"name"                             : "@mineui/tokens",
-	"version"                          : "0.0.6",
+	"version"                          : "0.0.7",
 	"description"                      : "Design tokens used by utilities",
 	"keywords"                         : ["mine", "ui", "tokens"],
 	"license"                          : "MIT",

@@ -5,7 +5,7 @@
 	"repo": {
 		"org"           : "mineui",
 		"name"          : "tokens",
-		"version"       : "0.0.6",
+		"version"       : "0.0.7",
 		"desc"          : "Design tokens used by utilities",
 		"kw"            : ["mine", "ui", "tokens"],
 		"license"       : "MIT",
