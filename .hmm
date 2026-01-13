@@ -6,7 +6,7 @@
 		"org"           : "mineui",
 		"name"          : "tokens",
 		"version"       : "0.0.5",
-		"desc"          : "350+ design tokens for modern UI systems—colors, spacing, typography, shadows, and more in HSL format",
+		"desc"          : "Design tokens used by utilities",
 		"kw"            : ["mine", "ui", "tokens"],
 		"license"       : "MIT",
 		"issues"        : "https://github.com/mineui-org/tokens/issues",
