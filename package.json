@@ -1,6 +1,6 @@
 {
 	"name"                             : "@mineui/tokens",
-	"version"                          : "0.0.4",
+	"version"                          : "0.0.5",
 	"description"                      : "350+ design tokens for modern UI systems—colors, spacing, typography, shadows, and more in HSL format",
 	"keywords"                         : ["mine", "ui", "tokens"],
 	"license"                          : "MIT",

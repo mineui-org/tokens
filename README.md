@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/v-0.0.4-black"/>
+    <img src="https://img.shields.io/badge/v-0.0.5-black"/>
     <a href="https://github.com/mineui-org"><img src="https://img.shields.io/badge/🔥-@mineui-black"/></a>
     <br>
     <img src="https://img.shields.io/badge/coverage-~%25-brightgreen" alt="Test Coverage" />
@@ -86,19 +86,19 @@
 
             ```scss
             // Gray scale (12 shades)
-            $gray-0   to $gray-11
+            $gray-0     to $gray-11
 
             // Brand colors (11 shades each)
-            $blue-1   to $blue-11
-            $green-1  to $green-11
-            $red-1    to $red-11
-            $amber-1  to $amber-11
-            $orange-1 to $orange-11
-            $purple-1 to $purple-11
-            $pink-1   to $pink-11
-            $cyan-1   to $cyan-11
-            $teal-1   to $teal-11
-            $indigo-1 to $indigo-11
+            $blue-1     to $blue-11
+            $green-1    to $green-11
+            $red-1      to $red-11
+            $amber-1    to $amber-11
+            $orange-1   to $orange-11
+            $purple-1   to $purple-11
+            $pink-1     to $pink-11
+            $cyan-1     to $cyan-11
+            $teal-1     to $teal-11
+            $indigo-1   to $indigo-11
             ```
 
         - #### Spacing
@@ -121,13 +121,13 @@
             $font-sans, $font-serif, $font-mono, $font-arabic
 
             // Sizes
-            $fs-xs to $fs-9xl
+            $fs-xs      to $fs-9xl
 
             // Weights
-            $fw-thin to $fw-black
+            $fw-thin    to $fw-black
 
             // Line heights
-            $lh-none to $lh-loose
+            $lh-none    to $lh-loose
 
             // Letter spacing
             $ls-tighter to $ls-widest
@@ -139,10 +139,10 @@
 
             ```scss
             // Widths
-            $bw-0 to $bw-8
+            $bw-0       to $bw-8
 
             // Radius
-            $br-none to $br-3xl, $br-full
+            $br-none    to $br-3xl, $br-full
             ```
 
         - #### Shadows
@@ -197,12 +197,12 @@
             > Responsive design breakpoints.
 
             ```scss
-            $bp-xs  : 0
-            $bp-sm  : 640px
-            $bp-md  : 768px
-            $bp-lg  : 1024px
-            $bp-xl  : 1280px
-            $bp-2xl : 1536px
+            $bp-xs      : 0
+            $bp-sm      : 640px
+            $bp-md      : 768px
+            $bp-lg      : 1024px
+            $bp-xl      : 1280px
+            $bp-2xl     : 1536px
             ```
 
         - #### Sizes
@@ -210,7 +210,7 @@
             > Common component sizes.
 
             ```scss
-            $size-xs to $size-2xl
+            $size-xs    to $size-2xl
             ```
 
         - #### Blur
@@ -218,7 +218,7 @@
             > Backdrop and effect blur values.
 
             ```scss
-            $blur-none to $blur-3xl
+            $blur-none  to $blur-3xl
             ```
 
         - #### Aspect Ratios
