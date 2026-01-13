@@ -26,10 +26,10 @@
 - ## Overview 👀
 
     - #### Why ?
-        > To standardize the design system with 350+ pre-configured tokens (colors, spacing, typography, shadows) using HSL format and semantic naming.
+        > Complete design tokens system with 350+ values covering colors, spacing, typography, shadows, and more. Built for modern UI systems with HSL colors and short, friendly names.
 
     - #### When ?
-        > When using [@mineui](https://github.com/mineui-org) and [@cruxjs](https://github.com/cruxjs-org) to build consistent, scalable design systems and component libraries.
+        > Use as the foundation for any CSS/SCSS project. Perfect for design systems, component libraries, or custom UI frameworks.
 
     <br>
     <br>
