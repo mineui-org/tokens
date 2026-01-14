@@ -12,7 +12,7 @@
     $bp-md: 768px;
     $bp-lg: 1024px;
     $bp-xl: 1280px;
-    $bp-2xl: 1536px;
+    $bp-xxl: 1536px;
 
     // Map for easy iteration
     $breakpoints: (
@@ -21,6 +21,6 @@
         'md': $bp-md,
         'lg': $bp-lg,
         'xl': $bp-xl,
-        '2xl': $bp-2xl,
+        'xxl': $bp-xxl,
     );
 

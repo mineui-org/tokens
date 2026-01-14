@@ -7,15 +7,15 @@
 // ----------------------------------------------------------------------------
 // PACK
 // ----------------------------------------------------------------------------
-    @use './colors.scss';
-    @use './spaces.scss';
-    @use './typography.scss';
-    @use './borders.scss';
-    @use './shadows.scss';
-    @use './z-index.scss';
-    @use './transitions.scss';
-    @use './opacity.scss';
-    @use './blur.scss';
-    @use './aspect.scss';
-    @use './sizes.scss';
-    @use './breakpoints.scss';
+    @forward './colors.scss';
+    @forward './spaces.scss';
+    @forward './typography.scss';
+    @forward './borders.scss';
+    @forward './shadows.scss';
+    @forward './z-index.scss';
+    @forward './transitions.scss';
+    @forward './opacity.scss';
+    @forward './blur.scss';
+    @forward './aspect.scss';
+    @forward './sizes.scss';
+    @forward './breakpoints.scss';
